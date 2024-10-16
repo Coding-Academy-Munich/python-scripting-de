@@ -36,7 +36,7 @@
 #
 # ## Struktur
 #
-# <img src="img/pat_strategy.svg"
+# <img src="img/pat_strategy.png"
 #      style="display:block;margin:auto;width:80%"/>
 
 
